@@ -92,3 +92,11 @@ Tersedia empat pilihan:
 ## 👨‍💻 Author
 
 **Bahrizal Helmi Mulyawan**
+
+
+
+ASM Studio — Learn 8086 Assembly by seeing the CPU execute it. ⚡
+
+🌐 Live Demo
+
+https://bahrizalmulyawan.github.io/ASM_Studio/
