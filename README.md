@@ -114,3 +114,11 @@ ASM Studio — Learn 8086 Assembly by seeing the CPU execute it. ⚡
 🌐 Live Demo
 
 https://bahrizalmulyawan.github.io/ASM_Studio/
+
+
+
+
+
+<img width="1029" height="627" alt="Screenshot_1" src="https://github.com/user-attachments/assets/3ba12988-c4b5-4695-9395-844a91f392a8" />
+<img width="820" height="628" alt="Screenshot_2" src="https://github.com/user-attachments/assets/5cbda308-f151-47cf-b319-9a225cbc9951" />
+
